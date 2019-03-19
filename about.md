@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 The University of Texas at Dallas, Richardson, Texas
-M.S. Business Analytics
+/M.S. Business Analytics/
 
 • Course Highlights: Business Analytics With R, SQL-Database Foundations
 
