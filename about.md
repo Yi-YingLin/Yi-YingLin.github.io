@@ -4,7 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+The University of Texas at Dallas, Richardson, Texas 
+M.S. Business Analytics
+• Course Highlights: Business Analytics With R, SQL-Database Foundations
+
+National Dong Hwa University (NDHU), Hualien, Taiwan
+Bachelor of Social Science in Sociology/ Business Administration in International Business
+• Project: University Students and Films: Download Methodology and Consumer Behavior
+• Project: Marketing the Idea of Organic Agriculture by Apps — Lian Hua Yuan Rural Areas as Example
 
 ### More Information
 
