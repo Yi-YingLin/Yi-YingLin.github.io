@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-The University of Texas at Dallas, Richardson, Texas 
+The University of Texas at Dallas, Richardson, Texas<blank>
 
 M.S. Business Analytics
 
