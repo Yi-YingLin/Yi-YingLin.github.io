@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-The University of Texas at Dallas, Richardson, Texas<blank>
+The University of Texas at Dallas, Richardson, Texas <blank>
 M.S. Business Analytics
 
 • Course Highlights: Business Analytics With R, SQL-Database Foundations
@@ -18,16 +18,16 @@ Bachelor of Social Science in Sociology/ Business Administration in Internationa
 ### WORK EXPERIENCE
 
 AIRNET Marketing Company, Taipei, Taiwan 
-• Social Media Strategist
+<blank>• Social Media Strategist
 
 Mr. DoDo Online Shop, Yilan, Taiwan
-• Marketing Assistant
+<blank>• Marketing Assistant
 
 ASUSTeK Computer Inc., Taipei, Taiwan
-• Marketing Intern
+<blank>• Marketing Intern
 
 National Dong Hwa University Department of Sociology, Hualien, Taiwan
-• Research Assistant
+<blank>• Research Assistant
 
 ### Contact me
 
